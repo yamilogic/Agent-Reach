@@ -5,10 +5,15 @@ __pycache__/
 *.egg-info/
 dist/
 build/
-.env
 .agent-reach/
 *.log
 
 # Claude Code personal permission settings — local only, never commit
 .claude/settings.local.json
 uv.lock
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
